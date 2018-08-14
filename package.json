@@ -1,0 +1,22 @@
+{
+  "name": "npmgittest",
+  "version": "1.0.0",
+  "description": "Test npm project with Git.",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uzair-Mahmood/npmGitTest.git"
+  },
+  "keywords": [
+    "GitTestnpm"
+  ],
+  "author": "Uzair Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uzair-Mahmood/npmGitTest/issues"
+  },
+  "homepage": "https://github.com/Uzair-Mahmood/npmGitTest#readme"
+}
